@@ -39,11 +39,11 @@
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/284</meta>
 		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/284</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A New York socialite attempts to prosper in the face of her dimished finances and fading youth.</dc:description>
+		<dc:description id="description">A New York socialite struggles to maintain a place among her wealthy friends in the face of her own diminished finances and fading youth.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The House of Mirth&lt;/i&gt; is Edith Wharton’s biting critique of New York’s upper classes around the end of the 19th century. The novel follows socialite Lily Bart as she struggles to achieve social and financial security within a superficial and callous social set.&lt;/p&gt;
-			&lt;p&gt;Wharton’s insights into high society were largely built on her own experiences growing up among the upper crust, and her confident portrayal of a morally corrupt aristocracy found an eager audience. The novel sold over a hundred thousand copies within a few months of its release and became her first great success as a published author.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The House of Mirth&lt;/i&gt; is Edith Wharton’s biting critique of New York’s upper classes around the end of the 19th century. The novel follows socialite Lily Bart as she struggles to maintain a precarious position among her wealthy friends in the face of her own diminished finances and fading youth. Lily has resolved to gain social and financial security by marrying into wealth, but callous rivals and her own second thoughts undermine Lily’s plans.&lt;/p&gt;
+			&lt;p&gt;Wharton’s insights into high society were largely built on her own experiences growing up among the upper crust, and her confident portrayal of a morally lax aristocracy found an eager audience. The novel sold over a hundred thousand copies within a few months of its release and became her first great success as a published author.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
