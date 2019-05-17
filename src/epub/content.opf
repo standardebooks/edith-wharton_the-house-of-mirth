@@ -26,25 +26,27 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The House of Mirth</dc:title>
 		<meta property="file-as" refines="#title">House of Mirth, The</meta>
 		<dc:subject id="subject-1">New York (N.Y.) -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Psychological fiction</dc:subject>
 		<dc:subject id="subject-3">Single women -- Fiction</dc:subject>
 		<dc:subject id="subject-4">Social classes -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/284</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/284</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/284</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/284</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008108377</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85108438</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008111421</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008111427</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A New York socialite struggles to maintain a place among her wealthy friends in the face of her own diminished finances and fading youth.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The House of Mirth&lt;/i&gt; is Edith Wharton’s biting critique of New York’s upper classes around the end of the 19th century. The novel follows socialite Lily Bart as she struggles to maintain a precarious position among her wealthy friends in the face of her own diminished finances and fading youth. Lily has resolved to gain social and financial security by marrying into wealth, but callous rivals and her own second thoughts undermine Lily’s plans.&lt;/p&gt;
 			&lt;p&gt;Wharton’s insights into high society were largely built on her own experiences growing up among the upper crust, and her confident portrayal of a morally lax aristocracy found an eager audience. The novel sold over a hundred thousand copies within a few months of its release and became her first great success as a published author.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/284</dc:source>
 		<dc:source>https://archive.org/details/houseofmirth00wharuoft</dc:source>
