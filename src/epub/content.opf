@@ -55,7 +55,7 @@
 		<dc:source>https://archive.org/details/houseofmirth00wharuoft</dc:source>
 		<dc:source>https://books.google.com/books?id=VruwAAAAIAAJ</dc:source>
 		<meta property="se:production-notes">The words "tableau" and "tableaux", which are defined in Merriam-Webster, were left italicized and semanticated as French for consistency with their longer forms of "tableau vivant" and "tableaux vivants", which are not.</meta>
-		<meta property="se:word-count">132723</meta>
+		<meta property="se:word-count">132720</meta>
 		<meta property="se:reading-ease.flesch">66.67</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_House_of_Mirth</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edith-wharton_the-house-of-mirth</meta>
