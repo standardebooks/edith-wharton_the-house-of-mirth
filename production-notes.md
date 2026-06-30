@@ -1,0 +1,1 @@
+The words "tableau" and "tableaux", which are defined in Merriam-Webster, were left italicized and semanticated as French for consistency with their longer forms of "tableau vivant" and "tableaux vivants", which are not.
