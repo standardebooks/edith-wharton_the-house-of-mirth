@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/edith-wharton/the-house-of-mirth</dc:identifier>
 		<dc:date>2018-07-26T19:00:32Z</dc:date>
@@ -46,11 +46,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">69</meta>
-		<dc:description id="description">A New York socialite struggles to maintain a place among her wealthy friends in the face of her own diminished finances and fading youth.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A New York socialite struggles to maintain a place among her wealthy friends in the face of her own diminished finances and fading youth.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The House of Mirth&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/edith-wharton"&gt;Edith Wharton’s&lt;/a&gt; biting critique of New York’s upper classes around the end of the 19th century. The novel follows socialite Lily Bart as she struggles to maintain a precarious position among her wealthy friends in the face of her own diminished finances and fading youth. Lily has resolved to gain social and financial security by marrying into wealth, but callous rivals and her own second thoughts undermine Lily’s plans.&lt;/p&gt;
 			&lt;p&gt;Wharton’s insights into high society were largely built on her own experiences growing up among the upper crust, and her confident portrayal of a morally lax aristocracy found an eager audience. The novel sold over a hundred thousand copies within a few months of its release and became her first great success as a published author.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/284</dc:source>
 		<dc:source>https://archive.org/details/houseofmirth00wharuoft</dc:source>
